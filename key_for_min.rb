@@ -12,4 +12,5 @@ lowest_value = nil
     end
   end
   #min
+  key
 end
