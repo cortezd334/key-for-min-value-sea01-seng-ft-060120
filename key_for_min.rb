@@ -13,5 +13,5 @@ lowest_value = nil
     end
   end
   min
-  binging pry
 end
+binding pry
